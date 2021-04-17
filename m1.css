@@ -1,0 +1,25 @@
+body {
+  background-color: bisque;
+}
+
+.c1 {
+  margin-left: 550px;
+  font-size: 20px;
+}
+
+input {
+  width: 200px;
+}
+.d1 {
+  margin-top: 20px;
+  margin-left: 230px;
+  font-size: 20px;
+}
+button {
+  margin-top: 10px;
+  margin-left: 340px;
+}
+
+f1 {
+  float: left;
+}
